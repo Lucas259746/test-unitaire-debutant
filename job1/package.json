@@ -1,0 +1,23 @@
+{
+  "name": "job1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Lucas259746/test-unitaire-debutant#readme",
+  "bugs": {
+    "url": "https://github.com/Lucas259746/test-unitaire-debutant/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas259746/test-unitaire-debutant.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jest": "^30.4.2"
+  }
+}
