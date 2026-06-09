@@ -1,0 +1,18 @@
+{
+  "name": "dell/job2-test-unitaire-php",
+  "autoload": {
+    "psr-4": {
+      "Dell\\Job2TestUnitairePhp\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Lucas259746",
+      "email": "lucas.rozotte@laplateforme.io"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "^10.0"
+  }
+}
