@@ -1,0 +1,17 @@
+{
+    "name": "dell/job3-test-unitaire-calculatrice",
+    "autoload": {
+        "psr-4": {
+            "Dell\\Job3TestUnitaireCalculatrice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas259746",
+            "email": "lucas.rozotte@laplateforme.io"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^13.2"
+    }
+}

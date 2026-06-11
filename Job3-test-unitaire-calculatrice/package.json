@@ -1,0 +1,12 @@
+{
+  "name": "test-unitaire-debutant",
+  "version": "1.0.0",
+  "description": "Tests unitaires pour calculatrice PHP et JS",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
